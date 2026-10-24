@@ -107,3 +107,19 @@ InitTestScene*.unity*
 
 # Auto-generated cache in Assets folder
 /[Aa]ssets/[Ss]ceneDependencyCache*
+
+# Unity temporary files
+UnityProject3/[Ll]ibrary/
+UnityProject3/[Tt]emp/
+UnityProject3/[Oo]bj/
+UnityProject3/[Ll]ogs/
+UnityProject3/[Uu]ser[Ss]ettings/
+UnityProject3/[Bb]uild/
+UnityProject3/[Bb]uilds/
+UnityProject3/.vs/
+
+# Generated Visual Studio files
+*.csproj
+*.sln
+*.suo
+*.user
